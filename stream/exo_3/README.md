@@ -1,0 +1,1 @@
+L'objectif de cet exercice est de construire un site web permettant d'analyser les résultats académiques des étudiants en France, basé sur une base de donnees existante.

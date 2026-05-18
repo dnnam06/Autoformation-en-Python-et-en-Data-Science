@@ -1,0 +1,1 @@
+J'apprends un peu du logging pour suivre les erreurs et préparer des projets plus complexes dans le futur.

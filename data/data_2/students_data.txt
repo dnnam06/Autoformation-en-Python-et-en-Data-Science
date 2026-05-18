@@ -1,0 +1,13 @@
+MSSV,Họ tên,Giới tính,Ngày sinh,Lớp,Ngành học,Email,SĐT,Địa chỉ,Điểm trung bình
+
+SV001,Nguyễn Văn A,Homme,2002-03-15,CTK44,Informatique,nguyenvana@example.com,0912345678
+SV002,Trần Thị Bích,Femme,2003-07-22,CTK44,Informatique théorique,tranthibich@example.com,0987654321,Hô Chi Minh-Ville,17.12
+SV003,Lê Văn C,Homme,2002-11-05,CTK43,Génie logiciel,levanc@example.com,0901122334,Đà Nẵng,15.84
+SV004,Phạm Thị Duyên,Femme,2003-02-09,CTK44,Systèmes d’information,phamthiduyen@example.com,,Hải Phòng,16.10
+SV005,Hoàng Văn Dũng,Homme,2002-08-17,CTK43,Réseaux informatiques,hoangvandung@example.com,0933222111,Nghệ An,"14.25"
+
+SV006,Ngô Thị Hạnh,Femme,2002-01-25,CTK45,Intelligence artificielle,ngothihanh@example.com,0944112233,Hà Tĩnh,12.26
+SV007,Đỗ Minh Khôi,Homme,2002-10-12,CTK44,Génie logiciel,dominhkhoi@example.com,0911223344,Bình Dương,15.62
+SV008,Phan Thị Lan,Femme,2003-05-19,CTK45,Analyse de données,phanthilan@example.com,0955667788,Huế,14.66
+SV009,Vũ Quang Minh,Homme,2002-09-30,CTK44,Informatique théorique,vuquangminh@example.com,0933557799,Hanoï,17.12
+SV010,Nguyễn Thị Oanh,Femme,2003-12-01,CTK45,Informatique,nguyenthioanh@example.com,0966778899,Thanh Hóa,10.52

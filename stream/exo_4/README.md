@@ -1,0 +1,1 @@
+L'objectif de cet exercice est de construire un site web permettant d'ajouter des étudiants dans une base de donnees créée.

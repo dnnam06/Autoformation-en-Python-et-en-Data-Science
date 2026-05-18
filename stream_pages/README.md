@@ -1,0 +1,1 @@
+Ce fichier contient un exemple simple d'un site web de multiples pages et un exercice de construire une apllication web de gestion des étudiants avec de différentes fonctions. 

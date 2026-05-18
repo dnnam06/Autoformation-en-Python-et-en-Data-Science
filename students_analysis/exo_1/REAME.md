@@ -1,0 +1,1 @@
+Trouver des différentes manières (en écrivant des fonctions différentes) pour montrer qu'une donnée saisie est un nombre.

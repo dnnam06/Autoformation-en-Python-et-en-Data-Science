@@ -1,0 +1,1 @@
+Ce fichier contient des exercices d’entraînement sur Pandas, notamment sur la manipulation de données à partir de fichiers CSV.

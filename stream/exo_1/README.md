@@ -1,0 +1,1 @@
+L'objectif de cet exercice est de créer un site web permettant de calculer la factorielle d'un nombre de 1 a 100.

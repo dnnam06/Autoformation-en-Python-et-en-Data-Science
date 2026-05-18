@@ -1,0 +1,1 @@
+Trier les données à l'odre décroissant de la note moyenne (GPA) dont quelques unes sont erronnées, avec quelques autres conditions.

@@ -1,0 +1,1 @@
+J'apprends le pytest pour savoir comment mieux construire une fonction avec les résultats désirés.

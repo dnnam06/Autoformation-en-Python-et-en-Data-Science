@@ -1,0 +1,1 @@
+Ce fichier contient des exercices d’entraînement en Python, portant notamment sur les connaissances fondamentales et les compétences de niveaux de plus en plus compliqués. 

@@ -1,0 +1,2 @@
+1. Construire deux fonctions notées biggest_integer et smallest_integer pour montrer le plus grand / petit nombre dans un liste.
+2. Donner un liste lisible sur les informations des étudiants, montrant aussi l'étudiant ayant la meilleue / la pire note (utiliser les deux fonctions contruites).

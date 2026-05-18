@@ -1,0 +1,1 @@
+L'objectif de cet exercice est de construire un site web permettant de prendre des notes des devoirs à faire.  

@@ -1,0 +1,1 @@
+L'exo "data_1" est de traiter simplement le fichier "data.txt" en donnant un autre fichier avec le même contenu de format identique entre les lignes.

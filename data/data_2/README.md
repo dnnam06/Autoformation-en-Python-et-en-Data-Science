@@ -1,0 +1,1 @@
+L'exo 'data_2' est plus compliqué en demandant de traiter et nettoyer les données dans le fichier "students_data.txt" classer les étudiants en fonction de leur moyenne à l'ordre décroissant.

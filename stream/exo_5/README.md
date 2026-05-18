@@ -1,0 +1,1 @@
+Cet exercice est plus compliqué que le dernier en demandant de construire un site web permettant d'ajouter des étudiants avec des numéros d'étudiant distincts et automatiquement généré en fonction de leur classe et leur département.
