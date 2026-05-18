@@ -85,7 +85,7 @@ def write_students_to_text(students: list[dict]):
     
     str_students = HEADERS_STUDENTS_FR + '\n' + str_students 
 
-    with open('data/data_2/new_students.txt', "w", encoding="utf-8") as f:
+    with open('data_text/data_2/new_students.txt', "w", encoding="utf-8") as f:
         f.write(str_students)
  
 def convert_student(students: list[dict]):
